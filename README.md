@@ -2,6 +2,7 @@
 Files here are completed exercises taken from Google's Python Class (http://code.google.com/edu/languages/google-python-class/)
 
 //LOGPUZZLE EXERCISE//
+
 The objective of the exercise is to reconstruct an image of an animal. The image has been divided into narrow vertical stripe images, each with its own URL. 
 The URLs are hidden in a web server log file. The task is to find the URLs and download all the image stripes to recreate the original image.
 
